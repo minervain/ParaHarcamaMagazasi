@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "title": "Sakız",
+      "price": 3,
+      "image": "https://ayb.akinoncdn.com/products/2019/08/22/22184/98ce9662-34e7-4e82-9614-53fb754bd4d4_size780x780_quality60_cropCenter.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Kola",
+      "price": 30,
+      "image": "https://images.migrosone.com/sanalmarket/product/8019112/8019112-083bca-1650x1650.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Ayakkabı",
+      "price": 1200,
+      "image": "https://cdn.dsmcdn.com/ty152/product/media/images/20210729/18/113801717/8828009/1/1_org_zoom.jpg"
+    },
+    {
+      "id": 4,
+      "title": "TOP",
+      "price": 100,
+      "image": "https://cdn.dsmcdn.com/ty470/product/media/images/20220705/17/135738958/85473587/1/1_org_zoom.jpg"
+    },
+    {
+      "id": 5,
+      "title": "UÇAK",
+      "price": 8000,
+      "image": "https://cdn.akakce.com/z/lets-be-child/let-s-be-child-lc-pirpir-ucak-lc-30770.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Araba",
+        "price": 400000,
+        "image": "https://www.otoshops.com/cms/uploads/18/20180525141655/HaberOrtasedan.jpeg"
+      }]
