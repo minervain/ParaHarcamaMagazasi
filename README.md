@@ -1,1 +1,1 @@
-<a href="https://para-harcama-magazasi-85creffyr-minervain.vercel.app/">
+<a href="https://para-harcama-magazasi-85creffyr-minervain.vercel.app/">SİTEYİ GÖRÜNTÜLE</a>
